@@ -1,12 +1,6 @@
-# Project Name
+# EddieCon 0.1 Demo
 
-Project Description
-
-## Live Version
-
-This page is not yet deployed.
-
-<!--This page is currently deployed. [View the live website.]()-->
+This code was used to demonstrate Discord slash commands for EddieCon 0.1
 
 ## Feedback and Bugs
 
